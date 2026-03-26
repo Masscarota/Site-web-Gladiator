@@ -1,0 +1,36 @@
+.saga_entière {
+    background-color: rgba(152, 158, 95, 0.89);
+    border-radius: 50px;
+    height: 60px;
+    display: flex;         
+    align-items: center;   
+    gap: 30px;             
+    padding: 0 180px;   
+    position: sticky;  
+    top: 20px;  
+    z-index: 2;
+}
+
+.lien_nav {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
+    color: rgb(90, 73, 10);
+    text-decoration: none;
+}
+
+.lien_nav:hover {
+    opacity: 0.7; 
+}
+
+.banniere{
+    position: relative;
+    border-radius: 10px;
+    z-index: 1;
+    bottom: 70px;
+    
+
+}
+
+.Titre_Accueil{
+    position: relative;
+}
